@@ -1,0 +1,36 @@
+PRAHA AIR QUALITY MEASUREMENTS
+Using Shiny App
+
+PRESENTATION OF ENVIROMENTAL DATA
+FACULTY OF ENVIRONMENTAL SCIENCES
+
+SUBMITTED BY: Jakub Bárek
+Here is the link to my Shiny app: https://jakubbarek.shinyapps.io/airquality_praha/
+
+Short Description:
+This Shiny app, Praha Air Quality Analysis, provides an interactive platform to explore and analyze 
+air quality data from Praha 2 - Riegrovy sady for January 2024. Users can select a specific pollutant (NO₂, O₃, PM10, PM2.5) 
+and filter the dataset using a week range slider to analyze trends.
+
+The app includes:
+🔹 Time Series Trends: Displays smoothed daily air quality variations over January 2024.
+🔹 Summary Statistics: Provides key metrics (min, max, mean, median, and standard deviation).
+🔹 Histogram & Boxplot: Helps visualize distribution and variability of pollutants.
+🔹 Comparison Feature: Enables comparison of all four air quality measures in one plot.
+🔹 Location Map: Shows the measurement station in Praha 2 - Riegrovy sady.
+🔹 Data Export: Users can download filtered datasets for offline analysis.
+
+Conclusion:
+This project helped me explore air quality levels in Praha 2 - Riegrovy sady and how they change over time.
+The ability to compare different pollutants made it easier to spot patterns, especially in urban pollution. The high
+levels of NO₂ and PM pollutants suggest that traffic and other sources could be major contributors to air pollution.
+Using interactive graphs and statistics made it much clearer how air quality fluctuates, and it showed why monitoring
+this data is important. Overall, this app is a helpful tool for understanding pollution trends and raising awareness
+about environmental issues in the city.
+
+
+
+
+
+
+
